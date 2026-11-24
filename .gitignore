@@ -1,0 +1,18 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Executables (Gunakan GitHub Releases untuk upload .exe)
+build/
+dist/
+*.spec
+*.exe
+
+# Environment & Temp
+.env
+venv/
+env/
+.venv/
+.DS_Store
+Thumbs.db
